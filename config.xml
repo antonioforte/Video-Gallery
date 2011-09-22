@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings>
+    <video_players>
+        <app>here</app>
+        <app>vlc</app>
+        <app>mplayer</app>
+        <app>totem</app>
+    </video_players>
+
+    <folderbigcolumns>8</folderbigcolumns>
+    <folderbigrows>6</folderbigrows>
+    <folderbighsep>5</folderbighsep>
+    <folderbigvsep>5</folderbigvsep>
+    <folderbigthumbwidth>100</folderbigthumbwidth>
+    <folderbigthumbheight>75</folderbigthumbheight>
+    <delete_existing_folderbig>no</delete_existing_folderbig>
+    
+    <delete_existing_screens>no</delete_existing_screens>
+    <nshots>48</nshots>
+    <screendims>200,100</screendims>
+    
+    <video_exts>.mkv,.mp4,.divx,.avi,.wmv,.flv,.mov,.mpg,.rmvb,.m4v,.ts,.m4v</video_exts>
+    
+    <video_folders>
+        <folder profile="TV" label="Tv Shows">/media/vault_small/video/series</folder>
+        <folder profile="Movies" label="Docs">/media/vault_small/video/Docs</folder>
+        <folder profile="Races" label="MotoGP">/media/vault_small/video/MotoGP</folder>
+        <folder profile="Races" label="World Rally Car">/media/vault_small/video/WRC</folder>
+        <folder profile="Movies" label="Movies">/media/vault_small/video/movies</folder>
+        <folder profile="Movies" label="Clips">/media/vault_small/video/clips</folder>
+
+        <folder profile="TV" label="Tv Shows II">/media/vault_big/video/Series</folder>
+        <folder profile="Movies" label="Docs II">/media/vault_big/video/Docs</folder>
+        <folder profile="Races" label="Formula 1">/media/vault_big/video/Motorsports/F1</folder>
+        <folder profile="Races" label="MotoGP II">/media/vault_big/video/Motorsports/MotoGP</folder>
+        <folder profile="Races" label="World Rally Car II">/media/vault_big/video/Motorsports/WRC</folder>
+        <folder profile="Movies" label="Movies II">/media/vault_big/video/Movies</folder>
+        <folder profile="Movies" label="Cinema">/media/vault_big/video/Cinema</folder>
+        <folder profile="Movies" label="Clips II">/media/vault_big/video/Clips</folder>
+        <folder profile="Races" label="Misc Motorsports">/media/vault_big/video/Motorsports/Misc</folder>
+    </video_folders>
+    
+</settings> 
